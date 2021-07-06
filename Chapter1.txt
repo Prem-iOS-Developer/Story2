@@ -1,0 +1,37 @@
+commit 70465d0f9bbe818446a5563cdf801968abb93430 (alien-plot)
+Author: Premkumar <premkumar.s@contus.in>
+Date:   Mon Jul 5 16:04:56 2021 +0530
+
+    modify chapter 1 and 2 to have alien theme
+
+user@Contuss-MacBook-Pro Story % git branch     
+* aliaan
+  alien-plot
+  main
+user@Contuss-MacBook-Pro Story % git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+user@Contuss-MacBook-Pro Story % git branch
+  aliaan
+  alien-plot
+* main
+
+
+
+commit 70465d0f9bbe818446a5563cdf801968abb93430 (alien-plot)
+Author: Premkumar <premkumar.s@contus.in>
+Date:   Mon Jul 5 16:04:56 2021 +0530
+
+    modify chapter 1 and 2 to have alien theme
+
+user@Contuss-MacBook-Pro Story % git branch     
+* aliaan
+  alien-plot
+  main
+user@Contuss-MacBook-Pro Story % git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+user@Contuss-MacBook-Pro Story % git branch
+  aliaan
+  alien-plot
+* main
