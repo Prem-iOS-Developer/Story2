@@ -35,3 +35,12 @@ user@Contuss-MacBook-Pro Story % git branch
   aliaan
   alien-plot
 * main
+
+
+  main
+user@Contuss-MacBook-Pro Story % git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.  main
+user@Contuss-MacBook-Pro Story % git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
